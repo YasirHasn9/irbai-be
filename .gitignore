@@ -1,0 +1,39 @@
+# Virtual environment
+venv/
+env/
+.venv/
+.env
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs and database files
+*.log
+*.db
+*.sqlite
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Other generated files
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+
+
+.installed.cfg
+bin
+develop-eggs
+downloads
+eggs
+parts
+lib
+lib64
+
+
